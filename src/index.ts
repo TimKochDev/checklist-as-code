@@ -1,5 +1,5 @@
 export const startSignUpFlow = () => ({
-  verifyEmail: (options: { checkedThatAtSignIsSet: true }) => ({
+  verifyEmail: () => ({
     checkPasswordRequirements: (options: {
       minLength: true;
       hasSpecialChar: true;
