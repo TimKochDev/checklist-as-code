@@ -1,7 +1,7 @@
 {
   "name": "checklist-as-code",
   "version": "0.0.0",
-  "description": "",
+  "description": "Rolling your own auth is possible if done right. Use checklists checked into your version control to ensure best practices.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
